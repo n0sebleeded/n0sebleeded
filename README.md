@@ -1,8 +1,5 @@
 
-## ReactJS Frontend developer 
-
-- Current project: [Brilliant Casino](https://github.com/n0sebleeded/client-brilliant-casino)
-
+### React JS/TS Frontend developer 
 ### Connect with me:
 - devDanilAkhunzianov@outlook.com
 
