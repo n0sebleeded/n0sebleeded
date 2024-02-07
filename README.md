@@ -10,7 +10,7 @@
 - Vite
 - Webpack
 - Git
-- Redux
+- Redux/Toolkit
 
 ### 🛠 Full list of PL, tools, frameworks:
 React, TS, JS. Vite, CRA, Webpack, Git, Redux, C, C++, SQL, Mysql, Python, Matplotlib, Pandas, Numpy, Threejs(wish GSAP), HTML5, CSS, Tailwind, Bootstrap, Sass...
